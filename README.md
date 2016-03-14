@@ -2,5 +2,6 @@
 
 To get started:
 
-  npm install
-  mocha --recursive test
+  npm install -g mocha
+  
+  mocha test/coollibtest.js
