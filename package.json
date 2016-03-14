@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/Paycho/node-unit-testing#readme",
   "devDependencies": {
+    "cheerio": "^0.20.0",
+    "jquery": "^2.2.1",
+    "jsdom": "^8.1.0",
     "mocha": "^2.4.5",
     "unit.js": "^2.0.0"
   }
