@@ -1,0 +1,23 @@
+{
+  "name": "paycho-node-unit-testing",
+  "version": "1.0.0",
+  "description": "Scratch project for nodejs-based unit testing demo",
+  "main": "test.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Paycho/node-unit-testing.git"
+  },
+  "author": "Paycho",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Paycho/node-unit-testing/issues"
+  },
+  "homepage": "https://github.com/Paycho/node-unit-testing#readme",
+  "devDependencies": {
+    "mocha": "^2.4.5",
+    "unit.js": "^2.0.0"
+  }
+}
